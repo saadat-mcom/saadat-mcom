@@ -70,6 +70,6 @@ Currently at **Mastercom Australia**, building fleet telematics and intelligent 
 ## Currently
 
 - 🏢 **Senior Software Engineer** @ Mastercom Australia
-- 📚 Completing **LangChain** and **Agentic AI** courses (Udemy)
+- 📚 Heavy engagements with **LangChain** and **Agentic AI**
 - 🤖 Daily practitioner: Claude · ChatGPT · GitHub Copilot
 - 👀 Open to Senior / Lead roles in Sydney (on-site, hybrid, or remote)
