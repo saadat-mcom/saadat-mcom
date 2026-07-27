@@ -14,7 +14,8 @@ I'm a Sydney-based Senior Software Engineer with a PhD and 20+ years of experien
 
 Currently at **Mastercom Australia**, building fleet telematics and intelligent transport solutions. Previously at **MST Global / Komatsu** (mining IoT), **Cohesive** (enterprise Android) and **UniKL+TAFE** (research & lecturing).
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-saadat--mcom.github.io-1a1a2e?style=for-the-badge)](https://saadat-mcom.github.io)
+[![Engineering Portfolio](https://img.shields.io/badge/🌐_Portfolio-saadat--mcom.github.io-1a1a2e?style=for-the-badge)](https://saadat-mcom.github.io)
+
 
 - 🏗️ **4 patents filed** across embedded systems and mobile platforms
 - 📄 **9+ peer-reviewed publications**
