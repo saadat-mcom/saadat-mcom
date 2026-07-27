@@ -12,7 +12,7 @@
 
 I'm a Sydney-based Senior Software Engineer with a PhD and 20+ years of experience shipping production systems — from vehicle **CAN Bus** and **Raspberry Pi** edge hardware to **AWS cloud platforms** and **enterprise Android apps**.
 
-Currently at **Mastercom Australia**, building fleet telematics and intelligent transport solutions. Previously at **MST Global / Komatsu** (mining IoT), **Cohesive** (enterprise Android), and **University of Wollongong** (research & lecturing).
+Currently at **Mastercom Australia**, building fleet telematics and intelligent transport solutions. Previously at **MST Global / Komatsu** (mining IoT), **Cohesive** (enterprise Android) and **UniKL+TAFE** (research & lecturing).
 
 - 🏗️ **4 patents filed** across embedded systems and mobile platforms
 - 📄 **9+ peer-reviewed publications**
@@ -55,13 +55,14 @@ Currently at **Mastercom Australia**, building fleet telematics and intelligent 
 
 ## Key Projects
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **Fleet Telematics Platform** | Android · Kotlin · HERE SDK · GTFS | 120× perf gain · 120+ vehicle types |
-| **Helix Virtual LightBar** | Go · REST APIs · Industrial IoT | 100% hardware dependency eliminated · Mining safety |
-| **MP70 Modem SDK** | Android · Java · MVVM | OTA firmware · Fleet management |
-| **Autonomous Navigation** | Raspberry Pi · CAN Bus · Python | University research prototype |
-| **MNS Cloud Backend** | AWS · Kubernetes · OpenSearch | −80% server load · 4 patents |
+
+| Project                       | Stack                                 | Highlights                                           |
+| ----------------------------- | ------------------------------------- | ---------------------------------------------------- |
+| **Fleet Telematics Platform** | Android · Kotlin · HERE SDK · GTFS | 120× perf gain · 120+ vehicle types                |
+| **Helix Virtual LightBar**    | Go · REST APIs · Industrial IoT     | 100% hardware dependency eliminated · Mining safety |
+| **MP70 Modem SDK**            | Android · Java · MVVM               | OTA firmware · Fleet management                     |
+| **Autonomous Navigation**     | Raspberry Pi · CAN Bus · Python     | University research prototype                        |
+| **MNS Cloud Backend**         | AWS · Kubernetes · OpenSearch       | −80% server load · 4 patents                       |
 
 → **[Full portfolio with deep-dives](https://saadat-mcom.github.io)**
 
