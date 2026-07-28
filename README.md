@@ -66,13 +66,13 @@ Latest at **Mastercom Australia**, building fleet telematics and intelligent tra
 ## Key Projects
 
 
-| Project                       | Stack                                 | Highlights                                           |
-| ----------------------------- | ------------------------------------- | ---------------------------------------------------- |
-| **Fleet Telematics Platform** | Android · Kotlin · HERE SDK · GTFS | 120× perf gain · 120+ vehicle types                |
-| **Helix Virtual LightBar**    | Go · REST APIs · Industrial IoT     | 100% hardware dependency eliminated · Mining safety |
-| **MP70 Modem SDK**            | Android · Java · MVVM               | OTA firmware · Fleet management                     |
-| **Autonomous Navigation**     | Raspberry Pi · CAN Bus · Python     | University research prototype                        |
-| **MNS Cloud Backend**         | AWS · Kubernetes · OpenSearch       | −80% server load · 4 patents                       |
+| Project                       | Stack                                                                                 | Highlights                                           |
+| ----------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| **Fleet Telematics Platform** | Go · Python · AWS · Raspberry Pi · CAN Bus · Linux · Bash                   | 120× perf gain · 120+ vehicle types                |
+| **Helix Virtual LightBar**    | Go · REST APIs · Industrial IoT                                                     | 100% hardware dependency eliminated · Mining safety |
+| **MP70 Modem SDK**            | Android · Java · MVVM                                                               | OTA firmware · Fleet management                     |
+| **Autonomous Navigation**     | Go · Oauth · Ruby on Rails · Python · Android · Kotlin · HERE SDK · GTFS | NSW, VIC, WA, QLD Fleet Navigation Platform          |
+| **MNS Cloud Backend**         | AWS · Kubernetes · OpenSearch                                                       | −80% server load · 4 patents                       |
 
 → **[Full portfolio with deep-dives](https://saadat-mcom.github.io)**
 
