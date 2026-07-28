@@ -12,12 +12,11 @@
 
 I'm a Sydney-based Senior Software Engineer with a PhD and 20+ years of experience shipping production systems — from vehicle **CAN Bus** and **Raspberry Pi** edge hardware to **AWS cloud platforms** and **enterprise Android apps**.
 
-Currently at **Mastercom Australia**, building fleet telematics and intelligent transport solutions. Previously at **MST Global / Komatsu** (mining IoT), **Cohesive** (enterprise Android) and **UniKL+TAFE** (research & lecturing).
+Latest at **Mastercom Australia**, building fleet telematics and intelligent transport solutions. Previously at **MST Global / Komatsu** (mining IoT), **Simple Motion** (enterprise Android & Web) and **UniKL+TAFE** (research & lecturing).
 
 [![Engineering Portfolio](https://img.shields.io/badge/🌐_Portfolio-saadat--mcom.github.io-1a1a2e?style=for-the-badge)](https://saadat-mcom.github.io)
 
-
-- 🏗️ **4 patents filed** across embedded systems and mobile platforms
+- 🏗️ **4 patents filed** across embedded systems, Wireless comms & and mobile platforms
 - 📄 **9+ peer-reviewed publications**
 - 📍 Sydney, NSW — Australian Citizen — Open to Work
 
@@ -25,14 +24,22 @@ Currently at **Mastercom Australia**, building fleet telematics and intelligent 
 
 ## Tech Stack
 
-**Mobile & Backend**
+**Backend Languages & Frameworks**
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frontend & Mobile**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 **Cloud & Infrastructure**
 
