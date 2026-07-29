@@ -1,6 +1,6 @@
 # Dr. Md. Nazmus Saadat
 
-**Senior Software Engineer · PhD · 10+ years building production systems**
+**Senior Software Engineer · PhD · 20 years building production systems**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-saadat--mcom.github.io-1a1a2e?style=for-the-badge)](https://saadat-mcom.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nazmus--saadat--dr-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nazmus-saadat-dr)
@@ -14,7 +14,7 @@ I'm a Sydney-based Senior Software Engineer with a PhD and 20+ years of experien
 
 Latest at **Mastercom Australia**, building fleet telematics and intelligent transport solutions. Previously at **MST Global / Komatsu** (mining IoT), **Simple Motion** (enterprise Android & Web) and **UniKL+TAFE** (research & lecturing).
 
-[![Engineering Portfolio](https://img.shields.io/badge/🌐_Portfolio-saadat--mcom.github.io-1a1a2e?style=for-the-badge)](https://saadat-mcom.github.io)
+[![Engineering Portfolio](https://img.shields.io/badge/🌐_Portfolio-saadat--mcom.github.io-1a1a2e?style=for-the-badge)](https://saadat-mcom.github.io/projects/SAADAT-PORTFOLIO-2026.html)
 
 - 🏗️ **4 patents filed** across embedded systems, Wireless comms & and mobile platforms
 - 📄 **9+ peer-reviewed publications**
@@ -74,7 +74,7 @@ Latest at **Mastercom Australia**, building fleet telematics and intelligent tra
 | **Autonomous Navigation**     | Go · Oauth · Ruby on Rails · Python · Android · Kotlin · HERE SDK · GTFS | NSW, VIC, WA, QLD Fleet Navigation Platform          |
 | **MNS Cloud Backend**         | AWS · Kubernetes · OpenSearch                                                       | −80% server load · 4 patents                       |
 
-→ **[Full portfolio with deep-dives](https://saadat-mcom.github.io)**
+→ **[Full portfolio with deep-dives](https://saadat-mcom.github.io/projects/SAADAT-PORTFOLIO-2026.html)**
 
 ---
 
