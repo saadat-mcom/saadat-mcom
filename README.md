@@ -2,7 +2,7 @@
 
 **Senior Software Engineer · PhD · 20 years building production systems**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-saadat--mcom.github.io-1a1a2e?style=for-the-badge)](https://saadat-mcom.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-saadat--mcom.github.io-1a1a2e?style=for-the-badge)](https://saadat-mcom.github.io/projects/SAADAT-PORTFOLIO-2026.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nazmus--saadat--dr-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nazmus-saadat-dr)
 [![Email](https://img.shields.io/badge/Email-nazmus.saadat%40yahoo.com-D14836?style=for-the-badge&logo=gmail)](mailto:nazmus.saadat@yahoo.com)
 
