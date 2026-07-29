@@ -46,14 +46,7 @@ Latest at **Mastercom Australia**, building fleet telematics and intelligent tra
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Databases & Data Platforms**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 
 **Embedded & IoT**
 
@@ -88,6 +81,6 @@ Latest at **Mastercom Australia**, building fleet telematics and intelligent tra
 ## Currently
 
 - 🏢 **Senior Software Engineer** @ Mastercom Australia
-- 📚 Heavy engagements with **LangChain** and **Agentic AI**
-- 🤖 Daily practitioner: Claude · ChatGPT · GitHub Copilot
-- 👀 Open to Senior / Lead roles in Sydney (on-site, hybrid, or remote)
+- 📚 Actively building AI-powered applications with LangChain, LangGraph, and Agentic AI.Heavy engagements with **LangChain** and **Agentic AI**
+- 🤖 Daily AI Tools: Claude · ChatGPT · GitHub Copilot mainly
+- 👀 Open to hands-on Senior, Lead, and Principal Software Engineering opportunities in Sydney (on-site, hybrid, or remote to anywhere!)
