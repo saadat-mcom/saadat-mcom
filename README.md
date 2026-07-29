@@ -78,7 +78,7 @@ Latest at **Mastercom Australia**, building fleet telematics and intelligent tra
 
 ---
 
-## Currently
+## LATEST
 
 - 🏢 **Senior Software Engineer** @ Mastercom Australia
 - 📚 Actively building AI-powered applications with LangChain, LangGraph, and Agentic AI.Heavy engagements with **LangChain** and **Agentic AI**
