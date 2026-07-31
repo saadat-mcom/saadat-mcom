@@ -1,6 +1,6 @@
 # Dr. Md. Nazmus Saadat
 
-**Senior Software Engineer · PhD · 20 years building production systems**
+**Senior Software Engineer · PhD · Building production systems**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-saadat--mcom.github.io-1a1a2e?style=for-the-badge)](https://saadat-mcom.github.io/projects/SAADAT-PORTFOLIO-2026.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nazmus--saadat--dr-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nazmus-saadat-dr)
@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a Sydney-based Senior Software Engineer with a PhD and 20+ years of experience shipping production systems — from vehicle **CAN Bus** and **Raspberry Pi** edge hardware to **AWS cloud platforms** and **enterprise Android apps**.
+I'm a Sydney-based Senior Software Engineer with a PhD and years of experience shipping production systems — from vehicle **CAN Bus** and **Raspberry Pi** edge hardware to **AWS cloud platforms** and **enterprise Android apps**.
 
 Latest at **Mastercom Australia**, building fleet telematics and intelligent transport solutions. Previously at **MST Global / Komatsu** (mining IoT), **Simple Motion** (enterprise Android & Web) and **UniKL+TAFE** (research & lecturing).
 
